@@ -1,5 +1,5 @@
 # Github configuration
-sdf
+
 This file provides a brief explanation of the organization of rippled's
 Github configuration for actions, workflows, and templates.
 
